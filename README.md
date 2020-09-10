@@ -1,2 +1,2 @@
-This is Sample project
-Sep 07 2020:
+This is Sample project for Jenkin
+Sep 10 2020:
